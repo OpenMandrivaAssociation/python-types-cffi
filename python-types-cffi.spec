@@ -1,7 +1,7 @@
 %define module types_cffi
 
 Name:		python-types-cffi
-Version:	1.17.0.20250915
+Version:	2.0.0.20260518
 Release:	1
 Source0:	https://files.pythonhosted.org/packages/source/t/types-cffi/%{module}-%{version}.tar.gz
 Summary:	Typing stubs for cffi
